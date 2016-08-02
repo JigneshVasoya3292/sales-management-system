@@ -1,0 +1,10 @@
+<TODOs...>
+Commented code in xaml
+Print code -- done
+report Code -- done
+Button Focus
+Invoice Number-- done
+Custmore Name TB -- Done
+
+
+SELECT * FROM Inventory WHERE CAST([Date] as date) >= CAST(@FromDate as date) AND CAST([Date] as date) <= CAST(@ToDate as date)

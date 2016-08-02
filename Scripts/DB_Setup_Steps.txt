@@ -1,0 +1,5 @@
+1. Run DB_Inventory first - It creates DB
+2. RUn all Table Scripts
+3. Run Stored Procedures Scripts
+4. Run InsertCredentials stored procedure and set USername and Password give by customer
+5. Run InsertInvoiceId stored Procedure and Provide InvoiceKey = "FH" (Without quotes) and LastInvoiceId = "0"(ZERO) (Without quotes - )

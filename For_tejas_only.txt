@@ -1,0 +1,4 @@
+Change SMS.DexTexh.Installer.txt to .exe - this is main installation File
+Key is in Keys.txt
+Run Scripts from Scripts folder - In specific Order  - Create DB - Create Tables - Create Stored Procedures
+Code is in CodeBase Folder - Change Extension to .rar

@@ -1,0 +1,10 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <BitmapImage x:Key="FH_Logo" UriSource="/Images/fashion-hub.jpg"/>
+    <BitmapImage x:Key="Application_Icon" UriSource="/Images/shop.ico"/>
+    <BitmapImage x:Key="Cart_Logo" UriSource="/Images/add_to_cart.png"/>
+    <BitmapImage x:Key="Printer_Logo" UriSource="/Images/printer.png"/>
+    <BitmapImage x:Key="Lock_Image" UriSource="/Images/lock.png"/>
+    <BitmapImage x:Key="Refresh_Image" UriSource="/Images/arrow_refresh.png"/>
+    <BitmapImage x:Key="Cancel_Image" UriSource="/Images/cancel.png"/>
+</ResourceDictionary>
